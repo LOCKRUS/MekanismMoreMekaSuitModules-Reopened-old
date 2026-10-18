@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "SES",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "mekanism:structural_glass"
+    },
+    "S": {
+      "item": "moremekasuitmodules:solipsismium_296"
+    },
+    "E": {
+      "item": "mekanism:upgrade_energy"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "moremekasuitmodules:sps_efficiency_amplification_upgrade"
+  }
+}
